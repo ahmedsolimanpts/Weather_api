@@ -5,7 +5,7 @@ restful api to get current weather from api for single country
 # you shoud go to "open weather" and create api key:
 "https://openweathermap.org/"
 
-## you need to replace api_key value in dotenv file with your key
+#### you need to replace api_key value in dotenv file with your key
 
 <h1>To Get result for one city</h1>
 
